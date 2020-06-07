@@ -1,2 +1,2 @@
 # MN
-MN-UPB
+Metode Numerice-GNU Octave-UPB
